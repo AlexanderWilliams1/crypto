@@ -59,5 +59,5 @@ pip install -r requirements.txt
 
 
 
-Warning: Always test with Binance Testnet before live trading. Cryptocurrency trading involves substantial risk. Please make sure you could figure out how it works and potential bugs
+#Warning: Always test with Binance Testnet before live trading. Cryptocurrency trading involves substantial risk. Please make sure you could figure out how it works and potential bugs
 before using it since I would never take any responsibility on loss of finance.
