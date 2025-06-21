@@ -6,6 +6,9 @@
 
 **LiquiGuard** is an algorithmic trading bot specifically designed to prevent liquidation in futures trading. It combines real-time market analysis with multi-layer safety mechanisms to protect your capital while identifying high-probability short opportunities in BTC/USDT futures markets.
 
+#Mission: Protect traders from liquidation risks while maintaining strategy profitability. The system uses multi-layer protection mechanisms to ensure that even in a volatile market, the account will not suffer catastrophic losses due to a single transaction.
+
+
 ## Key Anti-Liquidation Features
 
 🛡️ **Dynamic Stop-Loss System**  
